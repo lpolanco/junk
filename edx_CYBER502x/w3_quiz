@@ -25,7 +25,7 @@ Unit 3: Question 4
 Given a data block number, which tool will map the block number to its correspondent inode number?
 istat
 icat
-ifind
+*ifind
 ils
 
 Unit 3: Question 5
